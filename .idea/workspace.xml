@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eeff1b38-413e-4aa6-b163-930fb963858c" name="Changes" comment="ejercicio de bucles y estructuras de control">
+    <list default="true" id="eeff1b38-413e-4aa6-b163-930fb963858c" name="Changes" comment="ejercicio de clases, herencia, polimorfismo y clases abstractas">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/ejercClase/SmartWatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/ejercClase/SmartWatch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +12,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -35,7 +35,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.com.company.ejercClase.main">
+  <component name="RunManager" selected="Application.com.company.poo.interfaces.main">
     <configuration name="BuclesYControl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.BuclesYControl" />
       <module name="TiposDeDatos" />
@@ -62,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TipoDeDatos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.TipoDeDatos" />
+    <configuration name="com.company.ejercClase.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ejercClase.main" />
       <module name="TiposDeDatos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.*" />
+          <option name="PATTERN" value="com.company.ejercClase.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.company.ejercClase.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.ejercClase.main" />
+    <configuration name="com.company.poo.interfaces.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.poo.interfaces.main" />
       <module name="TiposDeDatos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.ejercClase.*" />
+          <option name="PATTERN" value="com.company.poo.interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.company.poo.interfaces.main" />
         <item itemvalue="Application.com.company.ejercClase.main" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.BuclesYControl" />
         <item itemvalue="Application.Funciones" />
-        <item itemvalue="Application.TipoDeDatos" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669258204616</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="ejercicio de clases, herencia, polimorfismo y clases abstractas">
+      <created>1669347071878</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669347071878</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -159,6 +166,7 @@
     <MESSAGE value="ejercicio java" />
     <MESSAGE value="ejercicio de funciones" />
     <MESSAGE value="ejercicio de bucles y estructuras de control" />
-    <option name="LAST_COMMIT_MESSAGE" value="ejercicio de bucles y estructuras de control" />
+    <MESSAGE value="ejercicio de clases, herencia, polimorfismo y clases abstractas" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejercicio de clases, herencia, polimorfismo y clases abstractas" />
   </component>
 </project>
