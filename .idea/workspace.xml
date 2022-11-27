@@ -35,22 +35,9 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.com.company.poo.interfaces.main">
+  <component name="RunManager" selected="Application.com.company.ejercicioInt.main">
     <configuration name="BuclesYControl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.BuclesYControl" />
-      <module name="TiposDeDatos" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Funciones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Funciones" />
       <module name="TiposDeDatos" />
       <extension name="coverage">
         <pattern>
@@ -68,6 +55,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.company.ejercClase.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.company.ejercicioInt.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ejercicioInt.main" />
+      <module name="TiposDeDatos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.ejercicioInt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.company.ejercicioInt.main" />
         <item itemvalue="Application.com.company.poo.interfaces.main" />
         <item itemvalue="Application.com.company.ejercClase.main" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.BuclesYControl" />
-        <item itemvalue="Application.Funciones" />
       </list>
     </recent_temporary>
   </component>
