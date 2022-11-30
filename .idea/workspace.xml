@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eeff1b38-413e-4aa6-b163-930fb963858c" name="Changes" comment="ejercicio de clases, herencia, polimorfismo y clases abstractas">
+    <list default="true" id="eeff1b38-413e-4aa6-b163-930fb963858c" name="Changes" comment="vectores">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,9 +35,22 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.com.company.ejercicioInt.main">
-    <configuration name="BuclesYControl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.BuclesYControl" />
+  <component name="RunManager" selected="Application.ArrayLista">
+    <configuration name="ArrayLista" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ArrayLista" />
+      <module name="TiposDeDatos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Vectores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Vectores" />
       <module name="TiposDeDatos" />
       <extension name="coverage">
         <pattern>
@@ -88,26 +101,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.poo.main" />
-      <module name="TiposDeDatos" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.poo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArrayLista" />
+        <item itemvalue="Application.Vectores" />
         <item itemvalue="Application.com.company.ejercicioInt.main" />
         <item itemvalue="Application.com.company.poo.interfaces.main" />
         <item itemvalue="Application.com.company.ejercClase.main" />
-        <item itemvalue="Application.main" />
-        <item itemvalue="Application.BuclesYControl" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +148,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669347071878</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="ejercicio de interfaces">
+      <created>1669509399483</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669509399483</updated>
+    </task>
+    <task id="LOCAL-00006" summary="vectores">
+      <created>1669609796642</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1669609796642</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -167,6 +181,8 @@
     <MESSAGE value="ejercicio de funciones" />
     <MESSAGE value="ejercicio de bucles y estructuras de control" />
     <MESSAGE value="ejercicio de clases, herencia, polimorfismo y clases abstractas" />
-    <option name="LAST_COMMIT_MESSAGE" value="ejercicio de clases, herencia, polimorfismo y clases abstractas" />
+    <MESSAGE value="ejercicio de interfaces" />
+    <MESSAGE value="vectores" />
+    <option name="LAST_COMMIT_MESSAGE" value="vectores" />
   </component>
 </project>
