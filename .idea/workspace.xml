@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eeff1b38-413e-4aa6-b163-930fb963858c" name="Changes" comment="vectores">
+    <list default="true" id="eeff1b38-413e-4aa6-b163-930fb963858c" name="Changes" comment="arraylist">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/ArrayLista.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/ArrayLista.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669609796642</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="arraylist">
+      <created>1669781126926</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1669781126926</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,6 +191,7 @@
     <MESSAGE value="ejercicio de clases, herencia, polimorfismo y clases abstractas" />
     <MESSAGE value="ejercicio de interfaces" />
     <MESSAGE value="vectores" />
-    <option name="LAST_COMMIT_MESSAGE" value="vectores" />
+    <MESSAGE value="arraylist" />
+    <option name="LAST_COMMIT_MESSAGE" value="arraylist" />
   </component>
 </project>
