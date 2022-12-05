@@ -1,0 +1,4 @@
+Hola, esto es para leer y escribir un fichero en java
+1.
+2.
+3.Por los momentos este es el FIN

@@ -35,9 +35,22 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Mapas">
+  <component name="RunManager" selected="Application.LeerFichero">
     <configuration name="ArrayLista" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.ArrayLista" />
+      <module name="TiposDeDatos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LeerFichero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.LeerFichero" />
       <module name="TiposDeDatos" />
       <extension name="coverage">
         <pattern>
@@ -88,26 +101,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.company.ejercicioInt.main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.ejercicioInt.main" />
-      <module name="TiposDeDatos" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.ejercicioInt.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LeerFichero" />
         <item itemvalue="Application.Mapas" />
         <item itemvalue="Application.ListaLinked" />
         <item itemvalue="Application.ArrayLista" />
         <item itemvalue="Application.Vectores" />
-        <item itemvalue="Application.com.company.ejercicioInt.main" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669782170808</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="arraylist fin">
+      <created>1669950222431</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1669950222432</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
