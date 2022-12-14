@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eeff1b38-413e-4aa6-b163-930fb963858c" name="Changes" comment="arraylist fin">
+    <list default="true" id="eeff1b38-413e-4aa6-b163-930fb963858c" name="Changes" comment="ejercicio 7,8,9 Parte 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/ejerT789/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/ejerT789/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +36,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.LeerFichero">
+  <component name="RunManager" selected="Application.main">
     <configuration name="ArrayLista" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.ArrayLista" />
       <module name="TiposDeDatos" />
@@ -88,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Vectores" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Vectores" />
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.ejerT789.main" />
       <module name="TiposDeDatos" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.*" />
+          <option name="PATTERN" value="com.company.ejerT789.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,11 +104,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.main" />
         <item itemvalue="Application.LeerFichero" />
         <item itemvalue="Application.Mapas" />
         <item itemvalue="Application.ListaLinked" />
         <item itemvalue="Application.ArrayLista" />
-        <item itemvalue="Application.Vectores" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669950222432</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="lectura de archivos">
+      <created>1670254654086</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1670254654086</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -206,6 +214,8 @@
     <MESSAGE value="vectores" />
     <MESSAGE value="arraylist" />
     <MESSAGE value="arraylist fin" />
-    <option name="LAST_COMMIT_MESSAGE" value="arraylist fin" />
+    <MESSAGE value="lectura de archivos" />
+    <MESSAGE value="ejercicio 7,8,9 Parte 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejercicio 7,8,9 Parte 1" />
   </component>
 </project>
