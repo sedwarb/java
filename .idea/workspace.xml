@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eeff1b38-413e-4aa6-b163-930fb963858c" name="Changes" comment="ejercicio 7,8,9 Parte 1">
+    <list default="true" id="eeff1b38-413e-4aa6-b163-930fb963858c" name="Changes" comment="ejercicio 7,8,9 Parte 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/ejerT789/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/ejerT789/main.java" afterDir="false" />
     </list>
@@ -191,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670254654086</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="ejercicio 7,8,9 Parte 2">
+      <created>1670982197991</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1670982197991</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -216,6 +223,7 @@
     <MESSAGE value="arraylist fin" />
     <MESSAGE value="lectura de archivos" />
     <MESSAGE value="ejercicio 7,8,9 Parte 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="ejercicio 7,8,9 Parte 1" />
+    <MESSAGE value="ejercicio 7,8,9 Parte 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejercicio 7,8,9 Parte 2" />
   </component>
 </project>

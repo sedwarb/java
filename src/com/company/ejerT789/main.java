@@ -1,8 +1,7 @@
 package com.company.ejerT789;
 
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.Vector;
+import java.io.*;
+import java.util.*;
 
 public class main {
     public static void main(String[] args) {
@@ -113,6 +112,60 @@ public class main {
             System.out.println("Esto no puede hacerse");
         }finally {
             System.out.println("Demo de código");
+        }
+
+        //8.
+        System.out.println("PARTE 8.");
+        try {
+            PrintStream fileIn = new PrintStream("fileIn.txt");
+            fileIn.println("Esto es una prueba para el ejercicio");
+            fileIn.close();
+
+            InputStream in = new FileInputStream("fileIn.txt");
+
+            byte[] datos = in.readAllBytes();
+
+            PrintStream out = new PrintStream("fileOut.txt");
+            out.write(datos);
+            out.close();
+            System.out.println("Se copio el fileIn en fileOut");
+        }catch (Exception e){
+            System.out.println("No se creo el Archivo");
+        }
+
+        //9.
+        System.out.println("PARTE 9.");
+        HashMap<String,String> cliente1 = new HashMap<>();
+        HashMap<String,String> cliente2 = new HashMap<>();
+        LinkedList<HashMap> clientes = new LinkedList<HashMap>();
+
+        cliente1.put("cod","14296150");
+        cliente1.put("nombre","edwar");
+        cliente1.put("apellido","sebrian");
+        cliente2.put("cod","15531903");
+        cliente2.put("nombre","jennifer");
+        cliente2.put("apellido","alcala");
+
+        clientes.add(cliente1);
+        clientes.add(cliente2);
+
+        try{
+            PrintStream clientesF = new PrintStream("clientes.txt");
+            for(HashMap item : clientes) {
+                clientesF.println(item.toString());
+            }
+            clientesF.close();
+        }catch (Exception e) {
+            System.out.println("Error en el Archivo");
+        }
+        System.out.println("Datos del Archivo:");
+        try{
+            InputStream inH = new FileInputStream("clientes.txt");
+            inH.close();
+            byte[] datosH = inH.readAllBytes();
+            for(byte datoH : datosH) System.out.print((char)datoH);
+        }catch (Exception e) {
+            System.out.println("Error en el Archivo");
         }
 
     }
