@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eeff1b38-413e-4aa6-b163-930fb963858c" name="Changes" comment="ejercicio 7,8,9 Parte 2">
+    <list default="true" id="eeff1b38-413e-4aa6-b163-930fb963858c" name="Changes" comment="ejercicio 7,8,9 Parte Final">
+      <change afterPath="$PROJECT_DIR$/src/com/company/Eventos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/MainForm.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/MainForm.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/ejerT789/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/ejerT789/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,20 +38,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.main">
-    <configuration name="ArrayLista" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.ArrayLista" />
-      <module name="TiposDeDatos" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.MainForm">
     <configuration name="LeerFichero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.LeerFichero" />
       <module name="TiposDeDatos" />
@@ -65,6 +54,19 @@
     </configuration>
     <configuration name="ListaLinked" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.ListaLinked" />
+      <module name="TiposDeDatos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.MainForm" />
       <module name="TiposDeDatos" />
       <extension name="coverage">
         <pattern>
@@ -104,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainForm" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.LeerFichero" />
         <item itemvalue="Application.Mapas" />
         <item itemvalue="Application.ListaLinked" />
-        <item itemvalue="Application.ArrayLista" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670982197991</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="ejercicio 7,8,9 Parte Final">
+      <created>1671066798714</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1671066798714</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,6 +233,7 @@
     <MESSAGE value="lectura de archivos" />
     <MESSAGE value="ejercicio 7,8,9 Parte 1" />
     <MESSAGE value="ejercicio 7,8,9 Parte 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="ejercicio 7,8,9 Parte 2" />
+    <MESSAGE value="ejercicio 7,8,9 Parte Final" />
+    <option name="LAST_COMMIT_MESSAGE" value="ejercicio 7,8,9 Parte Final" />
   </component>
 </project>
